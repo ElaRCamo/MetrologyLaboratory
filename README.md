@@ -67,7 +67,7 @@ Accede a indicadores globales, genera reportes mensuales, administra clientes, p
 
 - ![Inicio de sesión](docs/images/inicio-sesion.png)
 - ![Panel principal](docs/images/panel-principal.png)
-- ![Nueva solicitud](docs/images/nueva-solicitud.png)
+- ![Resumen de solicitud](docs/images/solicitud.png)
 - ![Reporte mensual](docs/images/reporte-mensual.png)
 
 ---
