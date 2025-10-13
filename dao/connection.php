@@ -4,10 +4,10 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 class LocalConector{
-    private $host = "127.0.0.1:3306";
-    private $usuario = "u909553968_Ela";
-    private $clave = "LMGrammer2024#";
-    private $db = "u909553968_MetroTickects";
+    private $host = "IP:PUERTO";
+    private $usuario = "USER";
+    private $clave = "PASSWORD";
+    private $db = "DB";
     private $conexion;
 
     public function conectar(){
